@@ -13,3 +13,7 @@
 * Open `R Studio`
 * Open `slides.tex` file
 * Click `Compile PDF`
+
+## License
+
+[The MIT License](http://piecioshka.mit-license.org) @ 2026
